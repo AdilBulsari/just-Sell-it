@@ -15,8 +15,8 @@ function ListingDetailsScreen({ route }) {
         <Text style={styles.price}>£{listing.price}</Text>
         <View style={styles.userContainer}>
           <ListItem
-            image={require("../assets/mosh.jpg")}
-            title="Mosh Hamedani"
+            image={require("../assets/adil.png")}
+            title="Adil Bulsari"
             subTitle="5 Listings"
           />
         </View>
